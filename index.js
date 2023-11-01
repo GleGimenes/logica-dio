@@ -42,4 +42,5 @@ switch (true) {
 }
 
 // Saída: mensagem de saída
-console.log(`O herói de nome ${nomeHeroi} está no nível correspondente ao XP escolhido: ${nivel}`);
+console.log("O herói " + nomeHeroi + " está no nível de XP: " + nivel);
+
